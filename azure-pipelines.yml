@@ -37,3 +37,8 @@ steps:
     includeRootFolder: false
 
 - task: PublishBuildArtifacts@1
+
+- task: NuGetCommand@2
+  inputs:
+    command: pack
+    packagesToPack: '**/*.csproj'
