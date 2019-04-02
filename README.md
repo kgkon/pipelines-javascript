@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/EYPOC/Octopus_POC/_apis/build/status/kgkon.pipelines-javascript?branchName=master)](https://dev.azure.com/EYPOC/Octopus_POC/_build/latest?definitionId=15&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
